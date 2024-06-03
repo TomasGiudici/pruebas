@@ -1,0 +1,6 @@
+-Crear un proyecto y subirlo a git
+-Generar modificaciones aplicando gitflow
+-Crear una rama de feature por cada integrante
+-Crear una rama release
+-Merge a master via pull request
+-Generar un conflito en el merge de las ramas y usar la rama hotfix
