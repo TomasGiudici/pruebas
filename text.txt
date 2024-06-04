@@ -1,6 +1,6 @@
--Crear un proyecto y subirlo a git
--Generar modificaciones aplicando gitflow
--Crear una rama de feature por cada integrante
+-Crear un proyecto y subirlo a git                                      :D
+-Generar modificaciones aplicando gitflow                               Entiendo que seria todo lo de abajo
+-Crear una rama de feature por cada integrante                          
 -Crear una rama release
--Merge a master via pull request
+-Merge a master via pull request                                        Desde la pagina (terminar de ver)
 -Generar un conflito en el merge de las ramas y usar la rama hotfix
