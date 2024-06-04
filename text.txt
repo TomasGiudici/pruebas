@@ -1,6 +1,6 @@
 -Crear un proyecto y subirlo a git                                      :D
 -Generar modificaciones aplicando gitflow                               Entiendo que seria todo lo de abajo
--Crear una rama de feature por cada integrante                          
+-Crear una rama de feature por cada integrante                          :D
 -Crear una rama release
 -Merge a master via pull request                                        Desde la pagina (terminar de ver)
 -Generar un conflito en el merge de las ramas y usar la rama hotfix
@@ -31,3 +31,12 @@ git flow feature finish rama	//borrar
 
 git flow release start 1.0.0	//crear rama release
 git flow release finish 1.0.0	//borrar
+
+Pasos probados gitflow feature (segun chatgpt):
+git flow init
+git flow feature start feature1
+//aplicar cambios
+git add main.py
+git commit -m "Añadir nueva funcionalidad en feature1"
+git push --set-upstream origin feature/feature1
+git flow feature finish feature1
