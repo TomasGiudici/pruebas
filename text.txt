@@ -6,6 +6,7 @@
 -Generar un conflito en el merge de las ramas y usar la rama hotfix
 
 :D
+puto
 Crear el proyecto, el repositorio y subirlo:
 git init
 git add .
